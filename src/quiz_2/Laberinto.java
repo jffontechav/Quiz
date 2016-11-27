@@ -20,6 +20,7 @@ public class Laberinto extends Juego{
     //posibles cambios en este constructor
     public Laberinto(int tiempo, Mundo mundos, Heroe heroes, Pantalla pantalla,
             String titulo, String descripcion, String autor) {
+        //definido aca
         super(titulo, descripcion, autor);
 
         this.tiempo = tiempo;
